@@ -21,3 +21,9 @@ To compile the fortran code of the mdcm module, go to pydcm via terminal and run
 python -m numpy.f2py -c -m mdcm mdcm.F90 --debug-capi
 
 The suffix --debug-capi is for debugging purpose and can be omitted.
+
+## Current State
+
+The Script execute.py contains a commented workflow of functions in the current version.
+As long as the data directory still contains all output files produces by the QM scan, there
+will be no Gaussian jobs submitted.
