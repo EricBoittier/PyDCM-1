@@ -20,4 +20,4 @@ To compile the fortran code of the mdcm module, go to pydcm via terminal and run
 
 python -m numpy.f2py -c -m mdcm mdcm.F90 --debug-capi
 
-The suffix --debug-capi is for debugging purpose and could be omitted.
+The suffix --debug-capi is for debugging purpose and can be omitted.
