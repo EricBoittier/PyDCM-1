@@ -1,0 +1,18 @@
+--system_label             scn
+--system_file_coord        sources/scn.xyz
+--system_file_type         xyz
+--system_total_charge      -1
+--system_spin_multiplicity 1
+--scan_dofs               
+ 0 1 2
+--scan_steps              
+ 179 175 171 167 163 159 155 151 147 143 139 135 131
+--scan_qm_program          Gaussian
+--scan_qm_method           MP2
+--scan_qm_basis_set        aug-cc-pVTZ
+--scan_constrained_opt     True
+--scan_parallel_tasks      4
+--scan_cpus_per_task       4
+--scan_memory_per_task     1600
+--scan_overwrite           False
+--scan_time_check_tasks    10

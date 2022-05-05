@@ -1,0 +1,23 @@
+node41.cluster
+ Read checkpoint file gaussian_9_scn.chk type G16
+ Write formatted file gaussian_9_scn.fchk
+ FChkPn:  Coordinates translated and rotated.
+ FChkPn:  Coordinates match /B/ after translation and rotation.
+ Will use up to     0 threads.
+ Top CubeGen          Wed May  4 19:08:33 2022
+ Aft UFChkP           Wed May  4 19:08:33 2022        0.38 cpu,        0.39 elapsed
+ Aft DecCub           Wed May  4 19:08:33 2022        0.08 cpu,        0.07 elapsed
+ Aft Density          Wed May  4 19:08:33 2022        0.00 cpu,        0.00 elapsed
+ Bef DoCube           Wed May  4 19:08:33 2022        0.01 cpu,        0.01 elapsed
+ There are a total of      154128 grid points.
+ ElSum from          density=       16.0030069367
+ Aft DoCube           Wed May  4 19:08:35 2022        1.84 cpu,        1.84 elapsed
+ Will use up to     0 threads.
+ Top CubeGen          Wed May  4 19:08:35 2022
+ Aft UFChkP           Wed May  4 19:08:35 2022        0.41 cpu,        0.41 elapsed
+ Aft DecCub           Wed May  4 19:08:35 2022        0.01 cpu,        0.01 elapsed
+ Aft Density          Wed May  4 19:08:35 2022        0.00 cpu,        0.00 elapsed
+ Bef DoCube           Wed May  4 19:08:35 2022        0.01 cpu,        0.01 elapsed
+ There are a total of      154128 grid points.
+ ElSum from          density=       28.7374598396
+ Aft DoCube           Wed May  4 19:08:53 2022       17.88 cpu,       17.88 elapsed
